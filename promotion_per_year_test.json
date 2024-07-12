@@ -35,5 +35,14 @@
         "pro_price_orginal": "25.000.000 đ",
         "indust_price": "26.000.000 đ",
         "indust_price_orginal": "32.500.000 đ"
+    },
+    {
+        "year": "10",
+        "basic_price":"8.000.000 đ",
+        "basic_price_orginal": "10.000.000 đ",
+        "pro_price": "20.000.000 đ",
+        "pro_price_orginal": "25.000.000 đ",
+        "indust_price": "26.000.000 đ",
+        "indust_price_orginal": "32.500.000 đ"
     }
 ]
