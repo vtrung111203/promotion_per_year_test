@@ -6,7 +6,34 @@
         "pro_price": "5.000.000 đ",
         "pro_price_orginal": "5.000.000 đ",
         "indust_price": "6.500.000 đ",
-        "indust_price_orginal": "6.500.000 đ",
+        "indust_price_orginal": "6.500.000 đ"
+    },
+    {
+        "year": "02",
+        "basic_price":"3.600.000 đ",
+        "basic_price_orginal": "4.000.000 đ",
+        "pro_price": "9.000.000 đ",
+        "pro_price_orginal": "10.000.000 đ",
+        "indust_price": "11.750.000 đ",
+        "indust_price_orginal": "13.000.000 đ"
+    },
+    {
+        "year": "03",
+        "basic_price":"5.130.000 đ",
+        "basic_price_orginal": "6.000.000 đ",
+        "pro_price": "12.750.000 đ",
+        "pro_price_orginal": "15.000.000 đ",
+        "indust_price": "16.575.000 đ",
+        "indust_price_orginal": "19.500.000 đ",
         "recomment_highlight_2": "Khuyên dùng"
+    },
+    {
+        "year": "05",
+        "basic_price":"8.000.000 đ",
+        "basic_price_orginal": "10.000.000 đ",
+        "pro_price": "20.000.000 đ",
+        "pro_price_orginal": "25.000.000 đ",
+        "indust_price": "26.000.000 đ",
+        "indust_price_orginal": "32.500.000 đ"
     }
 ]
